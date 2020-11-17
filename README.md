@@ -45,4 +45,4 @@
 ![GUI3](https://user-images.githubusercontent.com/60181129/99399613-41d7ed00-2929-11eb-8466-2cde5b4ee84c.JPG)
 
 ## 결과
-R+ Motion을 통해 강남스타일, 대한민국 응원가 코드를 확인할 수 있었으며 ROBOTIS MINI App을 통한 조작으로 로봇이 코드에 따라 춤 추는 것을 확인할 수 있었음.  
+R+ Motion을 통해 강남스타일, 대한민국 응원가 코드를 확인할 수 있었으며 ROBOTIS MINI App을 통한 조작으로 로봇이 춤추는 것을 실행 

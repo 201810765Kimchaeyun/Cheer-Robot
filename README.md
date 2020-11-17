@@ -20,15 +20,19 @@
 
 #### - 시스템 설계
 * 시스템 구성도
+
 ![시스템구성도1](https://user-images.githubusercontent.com/60181129/99399003-667f9500-2928-11eb-954c-8444530ae417.JPG)
 
 * 시스템 순서도
+
 ![시스템 순서도2](https://user-images.githubusercontent.com/60181129/99399017-6aabb280-2928-11eb-9eaa-080157645efc.JPG)
 
 * 기능설계 메뉴트리
+
 ![기능설계 메뉴트리3](https://user-images.githubusercontent.com/60181129/99399031-71d2c080-2928-11eb-94ad-e20264f2763d.JPG)
 
 * 사용사례 다이어그램
+
 ![사용사례다이어그램](https://user-images.githubusercontent.com/60181129/99399047-77300b00-2928-11eb-94c0-54c0c582b5c0.JPG)
 
 

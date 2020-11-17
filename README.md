@@ -12,6 +12,8 @@
 ## 개발 환경
 * 사용 로봇 : ROBOTIS MINI 
 ![로봇사진1](https://user-images.githubusercontent.com/60181129/99398515-df322180-2927-11eb-8662-9a76a00bed3e.JPG)
+![그림01](https://user-images.githubusercontent.com/60181129/99398740-1f919f80-2928-11eb-94d9-ae2db89b868a.png)
+
 
 * Tool : R+ Motion , ROBOTIS MINI App
 

@@ -18,7 +18,7 @@
 ## 개발 내용
 ### 아이디어 도출 - 시스템 설계 - GUI 설계 순서로 진행
 
-#### - 시스템 설계
+### - 시스템 설계
 * 시스템 구성도
 
 ![시스템구성도1](https://user-images.githubusercontent.com/60181129/99399003-667f9500-2928-11eb-954c-8444530ae417.JPG)
@@ -37,12 +37,12 @@
 
 
 
-#### - GUI
+### - GUI
 ![GUI1](https://user-images.githubusercontent.com/60181129/99399603-3dabcf80-2929-11eb-896a-345b8f06583d.JPG)
 
 ![GUI2](https://user-images.githubusercontent.com/60181129/99399606-400e2980-2929-11eb-9257-415c4dda494e.JPG)
 
 ![GUI3](https://user-images.githubusercontent.com/60181129/99399613-41d7ed00-2929-11eb-8466-2cde5b4ee84c.JPG)
 
-### 결과
+## 결과
 R+ Motion을 통해 

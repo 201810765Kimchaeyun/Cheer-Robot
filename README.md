@@ -37,5 +37,12 @@
 
 
 
-- GUI
-- 결과 사진
+#### - GUI
+![GUI1](https://user-images.githubusercontent.com/60181129/99399603-3dabcf80-2929-11eb-896a-345b8f06583d.JPG)
+
+![GUI2](https://user-images.githubusercontent.com/60181129/99399606-400e2980-2929-11eb-9257-415c4dda494e.JPG)
+
+![GUI3](https://user-images.githubusercontent.com/60181129/99399613-41d7ed00-2929-11eb-8466-2cde5b4ee84c.JPG)
+
+### 결과
+R+ Motion을 통해 

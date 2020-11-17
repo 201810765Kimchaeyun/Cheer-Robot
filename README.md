@@ -11,9 +11,9 @@
 
 ## 개발 환경
 * 사용 로봇 : ROBOTIS MINI 
+* Tool : R+ Motion , ROBOTIS MINI App
 ![로봇사진1](https://user-images.githubusercontent.com/60181129/99398515-df322180-2927-11eb-8662-9a76a00bed3e.JPG)
 
-* Tool : R+ Motion , ROBOTIS MINI App
 
 ## 개발 내용
 ### 아이디어 도출 - 시스템 설계 - GUI 설계 순서로 진행
@@ -45,4 +45,4 @@
 ![GUI3](https://user-images.githubusercontent.com/60181129/99399613-41d7ed00-2929-11eb-8466-2cde5b4ee84c.JPG)
 
 ## 결과
-R+ Motion을 통해 
+R+ Motion을 통해 강남스타일, 대한민국 응원가 코드를 확인할 수 있었으며 어플리케이션을 통한 조작으로 로봇이 코드에 따라 춤 추는 것을 확인할 수 있었음.  
